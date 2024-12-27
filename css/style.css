@@ -33,3 +33,21 @@ a {
     text-decoration: none;
     color: black;
 }
+
+/* Hero Section */
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background-image: url("https://pixabay.com/get/g75d1a2763cba55c8316b6e5a8e0ed472dbf17f5589ab8e6d14768f20a91cfb555e6d4de560b57dd7dafc67eac0536d8149eca1b3e583e803b13d4b973f2c8ca7_1920.jpg");
+    background-position: center;
+}
+
+.hero-text {
+    font-size: 128px;
+    color: black;
+    background-color: white;
+    mix-blend-mode: screen;
+    padding: 8px 24px;
+}
