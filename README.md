@@ -1,6 +1,6 @@
-# plant-page
+## About
 
-Landing page practice for a hypothetical plant website. Based on a school assignment and TheOdinProject... project.
+<p>Landing page practice for a hypothetical plant website. Based on a school assignment and TheOdinProject... project.</p>
 
 ## Credits
 <ul>
