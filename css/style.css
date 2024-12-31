@@ -56,12 +56,15 @@ a {
 .plant-section {
     height: 700px;
     background-color: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
 }
 
 .plant-header {
     font-size: 48px;
-    text-align: center;
-    padding: 24px 0 40px;
 }
 
 .plant-container {
