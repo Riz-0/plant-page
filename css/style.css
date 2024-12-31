@@ -150,3 +150,15 @@ a {
     padding: 8px 24px;
     font-size: 18px;
 }
+
+/* Footer */
+
+.footer {
+    font-size: 18px;
+    color: white;
+    background-color: #688454;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
